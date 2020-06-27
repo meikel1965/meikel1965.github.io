@@ -8,3 +8,5 @@ Stephen Edwin King (* 21. September 1947 in Portland, Maine) ist ein US-amerikan
 * Dr. Sleep
 
 > Das ist ein Zitat
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Stephen_King%2C_Comicon.jpg"/>
